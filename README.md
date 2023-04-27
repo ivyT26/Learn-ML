@@ -17,10 +17,10 @@ Notes and Insights on ML
   - Random Forest Regressor
   - XGBoost Regressor
   - KMeans/KNeighbors Regressor (in progress)
-  - Cross validation for choosing best model
 - Data cleaning and processing techniques:
   - Simple Imputer
   - One Hot Encoder
   - Feature Engineering with mutual information and interaction effects (in progress)
-- Code optimization:
+- Code and model optimization:
   - Pipelines
+  - Cross validation for choosing best hyperparameters
